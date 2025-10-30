@@ -114,7 +114,7 @@ export const CartIcon = () => {
         <rect width="18" height="18" fill="white" />
       </defs>
     </svg>
-
+    
   )
 }
 
